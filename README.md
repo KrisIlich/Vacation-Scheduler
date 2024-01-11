@@ -7,10 +7,12 @@ This guide is designed to assist maintenance personnel in setting up and running
 
 ### Installation
 1. **Open with Android Studio:** Open Repository with Android Studio. 
-2. **Install the App:** Deployment is available on Google Play upon request as a private tester. (email kilichpro@gmail.com)
+2. **Install the App:** Deployment is available on Google Play upon request as a private tester. (email kilichpro@gmail.com)<br>
+<br>
 
-# Vacation Scheduler App - Tech Stack Overview
-## Core Technologies
+
+## Vacation Scheduler App - Tech Stack Overview
+### Core Technologies
 
 ### Programming Language
 - **Java**
