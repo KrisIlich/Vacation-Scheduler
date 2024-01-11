@@ -6,7 +6,7 @@
 This guide is designed to assist maintenance personnel in setting up and running the "Vacation Scheduler" application. It will cover installation, configuration, routine maintenance, and troubleshooting steps.
 
 ### Installation
-1. **Open with Android Studio:** Open Repository with Android Studio, 
+1. **Open with Android Studio:** Open Repository with Android Studio. 
 2. **Install the App:** Deployment is available on Google Play upon request as a private tester. (email kilichpro@gmail.com)
 
 ### Initial Setup
