@@ -24,7 +24,9 @@ This guide is designed to assist maintenance personnel in setting up and running
    - Hotel Name: Where you will be staying.
    - Start Date: When your vacation begins.
    - End Date: When your vacation ends.
-2. **Adding Excursions:** Tap "Add an Excursion" to plan outings and activities for your vacation. Enter the "Excursion Title" and "Excursion Date" for each one.
+   - Save Vacation: Tap the three-dot icon in the upper right corner to access option
+2. **Adding Excursions:** (Save Vacation before moving to adding an excursion) Tap "Add an Excursion" to plan outings and activities for your vacation. Enter the "Excursion Title" and "Excursion Date" for each one.
+   - Save Excursion: Tap the three-dot icon in the upper right corner to access option
 
 ## Managing Vacation Details
 1. **Vacation Details Menu:** Tap the three-dot icon in the upper right corner to access options such as:
