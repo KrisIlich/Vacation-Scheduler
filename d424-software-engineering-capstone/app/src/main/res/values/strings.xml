@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vacation Scheduler</string>
+
+        <string name="channel_name">YourChannelName</string>
+        <string name="channel_description">YourChannelDescription</string>
+
+</resources>
