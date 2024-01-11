@@ -3,16 +3,60 @@
 ## Getting Started with Vacation Scheduler
 
 ### Introduction
-This guide is designed to assist maintenance personnel in setting up and running the "Vacation Scheduler" application. It will cover installation, configuration, routine maintenance, and troubleshooting steps.
+This guide is designed to assist maintenance personnel in setting up and running the "Vacation Scheduler" application. It will cover installation, configuration, routine maintenance, and troubleshooting steps. This application was built for the purpose of final coursework for the Softwaree Engineering program at Western Governor's University.
 
 ### Installation
 1. **Open with Android Studio:** Open Repository with Android Studio. 
 2. **Install the App:** Deployment is available on Google Play upon request as a private tester. (email kilichpro@gmail.com)
 
-### Initial Setup
-1. **Home Screen:** Upon launching the app, you'll be greeted with the Home Screen. To begin planning your vacations, tap the "My Vacations" button.
+# Vacation Scheduler App - Tech Stack Overview
+## Core Technologies
 
-## Planning Your Vacation
+### Programming Language
+- **Java**
+### Database
+- **Room Persistence Library**
+### User Interface Design
+- **XML**
+## Android Framework Components
+- **Activities**
+  - Using `AppCompatActivity` for managing user interface and interactions.
+- **RecyclerView**
+  - For efficient listing and management of data items.
+- **Intent & PendingIntent**
+  - Utilized for handling component communication and event scheduling.
+- **AlarmManager**
+  - For scheduling and managing notifications and actions.
+- **DatePickerDialog**
+  - Integrated for enabling users to select dates easily.
+## PDF Generation
+- **iText PDF Library**
+  - Employed for generating and manipulating PDF documents within the app.
+## Testing Frameworks
+- **JUnit**
+  - Used for unit testing various components of the application.
+- **Mockito**
+  - For creating and managing mock objects in unit tests.
+## Android Specific Libraries and Features
+- **Android SDK**
+  - Basic development tools and libraries for Android.
+- **Material Design Components**
+  - Implementation of Material Design guidelines in the UI components.
+- **Toast**
+  - For displaying brief informational messages.
+- **SearchView**
+  - To incorporate search functionality within the app.
+- **Logging (Log Class)**
+  - Essential for debugging and logging important information.
+## Design Patterns
+- **Repository Pattern**
+  - Implemented for abstracting data operations and ensuring a clean separation of concerns.
+
+<br>
+<br>
+
+
+# Planning Your Vacation
 
 ### Accessing Your Vacation List
 1. **Vacation List:** After tapping "My Vacations", you'll be taken to the "Vacation List Tile View". This is where all your planned vacations are listed.
