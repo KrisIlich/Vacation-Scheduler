@@ -17,7 +17,7 @@ This guide is designed to assist maintenance personnel in setting up and running
 ### Programming Language
 - **Java**
 ### Database
-- **Room Persistence Library**
+- **SQLite**
 ### User Interface Design
 - **XML**
 ## Android Framework Components
